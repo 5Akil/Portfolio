@@ -53,7 +53,7 @@ export const projectDetails = [
         project_desc:"An Amazon clone app typically includes features such as product listings, shopping carts, checkout, and payment processing. for making this application i used React library and some other npm packages like 'react-multi-carousel' for adding carousel , 'react-currency-format' and for hosting this site i used Firebase plateform. ",
         tech_stack: ['HTML' , 'CSS' , 'JavaScript' , 'react'],
         project_img: Project3,
-        project_url: "https://clone-bb877.firebaseapp.com",
+        project_url: "https://clone-bbccf.firebaseapp.com",
         reverse: false,
     }
 
